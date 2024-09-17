@@ -22,10 +22,10 @@
 - Què indica una adreça IP com 169.254.x.x? Que el servidor DHCP no funciona correctament.
 - Com es pot solucionar aquest problema? Mirar si el servidor DHCP està ben configurat, mirar si el switch està mal configurat.
 5. Quina és la funció de cada dispositiu a una xarxa:
-  - Router
-  - Switch
-  - Servidor DHCP
-  - Firewall
+  - Router: Connecta diferents xarxes entre sí.
+  - Switch: Connectar dispositius a UNA xarxa.
+  - Servidor DHCP: Dona la informació de connexió als equips, IP, màscara de xarxa, DNS...
+  - Firewall: Sistema de defensa contra intrusions de tercers a una xarxa.
 6. Identifica quines de les següents adreces IP són privades i quines són públiques:
   - 172.16.0.10
   - 8.8.8.8
