@@ -27,15 +27,15 @@
   - Servidor DHCP: Dona la informació de connexió als equips, IP, màscara de xarxa, DNS...
   - Firewall: Sistema de defensa contra intrusions de tercers a una xarxa.
 6. Identifica quines de les següents adreces IP són privades i quines són públiques:
-  - 172.16.0.10
-  - 8.8.8.8
-  - 192.168.1.50
-  - 203.0.113.10
+  - 172.16.0.10 (Privada)
+  - 8.8.8.8 (Pública)
+  - 192.168.1.50 (Privada)
+  - 203.0.113.10 (Pública)
 7. Identifica si les següents adreces IP són de classe A, B o C:
-  - 192.168.0.1
-  - 10.0.0.1
-  - 172.16.5.4
-  - 203.0.113.5
+  - 192.168.0.1 C
+  - 10.0.0.1 A
+  - 172.16.5.4 B
+  - 203.0.113.5 C
 8. Dividir una xarxa classe C en 4 subxarxes
   - Tens la xarxa 192.168.1.0/24.
   - Divideix-la en 4 subxarxes i determina les adreces IP disponibles per a cada subxarxa, incloent la IP de xarxa, la primera i última adreça usable, i la IP de broadcast.
