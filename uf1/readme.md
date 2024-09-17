@@ -7,4 +7,4 @@
 
 ## Activitats:
 
-- [Activitat 1](activitat1.md)
+- [Activitat 1 - Investigació sobre Windows Server](activitat1.md)
