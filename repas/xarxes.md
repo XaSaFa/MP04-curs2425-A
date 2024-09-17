@@ -18,7 +18,9 @@
   - Quin serà el rang d'IP usables? 192.168.180.1 a 192.168.180.254
   - Quina és la IP de broadcast? 192.168.180.255
   - Quina és la adreça de xarxa? 192.168.180.0
-4. Tens una xarxa domèstica amb l'adreça IP 192.168.1.25 assignada al teu ordinador, i la teva màscara de subxarxa és 255.255.255.0. Els teus amics es connecten a la mateixa xarxa, però tenen problemes per accedir a Internet. Després d'examinar-ho, t'adones que tenen adreces IP com 169.254.x.x. Què indica una adreça IP com 169.254.x.x? Com es pot solucionar aquest problema?
+4. Tens una xarxa domèstica amb l'adreça IP 192.168.1.25 assignada al teu ordinador, i la teva màscara de subxarxa és 255.255.255.0. Els teus amics es connecten a la mateixa xarxa, però tenen problemes per accedir a Internet. Després d'examinar-ho, t'adones que tenen adreces IP com 169.254.x.x.
+- Què indica una adreça IP com 169.254.x.x? Que el servidor DHCP no funciona correctament.
+- Com es pot solucionar aquest problema? Mirar si el servidor DHCP està ben configurat, si el switch està mal configurat.
 5. Quina és la funció de cada dispositiu a una xarxa:
   - Router
   - Switch
