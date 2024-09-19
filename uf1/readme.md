@@ -8,3 +8,8 @@
 ## Activitats:
 
 - [Activitat 1 - Investigació sobre Windows Server](activitat1.md)
+- [Activitat 2 - Sistemes de fitxers](activitat2.md)
+
+## Recursos:
+
+- [Descàrrega de Windows 2016 Server](https://www.microsoft.com/es-es/evalcenter/download-windows-server-2016)
