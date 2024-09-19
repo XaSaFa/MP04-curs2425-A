@@ -3,7 +3,8 @@
 ## Teoria:
 
 - [Introducció](uf1_teoria_1.md)
-- [Sistemes de fitxers](uf1_teoria_2.md)  
+- [Sistemes de fitxers](uf1_teoria_2.md)
+- [Emmagatzematge a Windows](emmagatzematge.md)
 
 ## Activitats:
 
