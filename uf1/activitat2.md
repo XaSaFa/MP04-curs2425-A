@@ -1,4 +1,4 @@
-## Activitat 2:
+## Activitat 3 - Instal·lació documentada de Windows 2016 Server:
 
 1.-Tenint en compte els sistemes de fitxers següents: FAT16, FAT32, NTFS, ExFAT, Ext2, Ext3, Ext4 fes una taula on es vegi:
 
