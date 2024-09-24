@@ -10,7 +10,7 @@ A l'hora d'instal·lar Windows Server em de mirar els requisits mínims del maqu
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/b7d71b39-b933-4693-a85b-2eb2cb8ef7a6)
 
-El tipus d'instal·lació poty ser:
+El tipus d'instal·lació pot ser:
 
 - **Sense experiència d’escriptori.** Aquesta opció omet la major part de l’escriptori gràfic de Windows. L’administració es porta a terme amb el símbol del sistema, amb el PowerShell o de forma remota. Aquesta opció és interessant per estalviar els recursos gràfics.
 - **Amb experiència d’escriptori.** Aquesta opció instal·la l’entorn gràfic de Windows, consumint els recursos corresponents. És interessant si es vol fer ús de l’escriptori de Windows, o es vol aprendre el funcionament.
