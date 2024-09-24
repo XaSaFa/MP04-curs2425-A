@@ -6,6 +6,7 @@
 - [Sistemes de fitxers](uf1_teoria_2.md)
 - [Taules de particions i emmagatzematge a Windows](emmagatzematge.md)
 - [Gestió de discos i DISKPART](discos.md)
+- [Instal·lació de Windows 2016 Server](install_windows_2016_server.md)
 
 ## Activitats:
 
