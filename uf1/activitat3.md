@@ -62,10 +62,6 @@ Crea un document de text que inclogui com a mínim (però no necessàriament lim
   
 - [Opcional] Troubleshooting: informa dels problemes que hagis detectat durant la instal·lació i les solucions que has fet servir.
 
-- Proves de funcionament: Verificacions que has fet per comprovar que tot funciona correctament.
-  - Configuració del servidor.
-  - Configuració de xarxa.
-
 **ENTREGA DE L'ACTIVITAT**
 
-- Documentació: Adjunta el document resultant en format **PDF** a la  tasca de Classroom corresponent.
+- Documentació: Adjunta el document resultant en format **PDF** a la  tasca de Moodle corresponent.
