@@ -55,7 +55,7 @@ Per veure les comandes disponibles escrivim a dins de diskpart **help**
 
 ## Disc, Volum, partició seleccionat:
 
-**Quan escrivim ordres de diskpart em d'estar segurs que ho fem al disc, partició o volum que toca, quan fem un list disk, list volume o list partition el que està seleccionat tindrà un ```*``` davant.**
+**Quan escrivim ordres de diskpart hem d'estar segurs que ho fem al disc, partició o volum que toca, quan fem un list disk, list volume o list partition el que està seleccionat tindrà un ```*``` davant.**
 
 ## Crear una partició:
 
