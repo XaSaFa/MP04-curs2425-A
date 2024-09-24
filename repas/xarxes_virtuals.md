@@ -32,9 +32,9 @@ Similar a NAT però les MV es poden comunicar ja que estan a la mateixa xarxa.
 
 Per tal d'utilitzar Xarxa NAT hem de configurar la xarxa primer
 
-![image](https://github.com/user-attachments/assets/1f063288-ef57-4f05-9f64-f9b82d59c9e8)
+![image](https://github.com/user-attachments/assets/ce198a3c-1800-4c6c-ba72-a7cd049ff6ab)
 
-![image](https://github.com/user-attachments/assets/d2929ffc-2604-4452-b299-c39e461ee546)
+![image](https://github.com/user-attachments/assets/640bdffa-7484-4547-ab15-d4004dcfcf3a)
 
 **Funcionament:**
 
