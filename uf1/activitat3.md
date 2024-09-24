@@ -16,13 +16,13 @@ Conèixer i documentar la instal·lació d'un Windows Server en mode d'escriptò
 
 1. Crea una màquina virtual amb els requisit mínims per instal·lar el Windows Server amb experiència d'escriptori indicat i aquests paràmetres:
 
-RAM recomanada.
-CPUs recomanades.
-Crea un nou disc dur de la mida recomanada (50 GB).
-Utilitza el mètode d’emmagatzematge amb expansió dinàmica.
-128 MB de memòria de vídeo.
-Crea 1 interfície de xarxa:
-Xarxa NAT
+- RAM recomanada.
+- CPUs recomanades.
+- Crea un nou disc dur de la mida recomanada (50 GB).
+- Utilitza el mètode d’emmagatzematge amb expansió dinàmica.
+- 128 MB de memòria de vídeo.
+- Crea 1 interfície de xarxa:
+- Xarxa NAT
 
 2. Realitza la instal·lació de Windows Server a la MV seguint les següents indicacions:
 
