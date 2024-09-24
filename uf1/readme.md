@@ -11,6 +11,7 @@
 
 - [Activitat 1 - Investigació sobre Windows Server](activitat1.md)
 - [Activitat 2 - Sistemes de fitxers](activitat2.md)
+- [Activitat 3 - Instal·lació documentada de Windows 2016 Server](activitat2.md)
 
 ## Recursos:
 
