@@ -2,7 +2,7 @@
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/0d20cfad-e478-4370-b749-b129cf954f54)
 
-Una de les coses més importants d'un sistema operatiu és tenir fiabilitat en la informació del sistema, per això és molt important que la informació estigui resguardada, una de les maneres de aconseguir-ho és fent còpies de seguretat o backups.
+Una de les coses més importants d'un sistema operatiu és tenir fiabilitat en la informació del sistema, per això és molt important que la informació estigui resguardada, una de les maneres d'aconseguir-ho és fent còpies de seguretat (també anomenades backups).
 
 ## Tipus de còpies de seguretat
 
