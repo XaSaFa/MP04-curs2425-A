@@ -7,6 +7,12 @@
 - [Taules de particions i emmagatzematge a Windows](emmagatzematge.md)
 - [Gestió de discos i DISKPART](discos.md)
 - [Instal·lació de Windows 2016 Server](install_windows_2016_server.md)
+- **Còpies de seguretat:**
+  - [Tipus de còpies de seguretat](backups0.md)
+  - [Activar característica de Còpies de seguretat](backups1.md)
+  - [Fer una còpia de seguretat](backups2.md)
+  - [Restaurar Còpies de seguretat](backups3.md)
+  - [Programar Còpies de seguretat](backups4.md)
 
 ## Activitats:
 
