@@ -7,15 +7,45 @@ Entrega un pdf amb les solucions demanades, has de justificar les respostes amb 
 Contesta les següents preguntes:
 
 1. Investiga i explica les principals diferències entre discos durs HDD i SSD, adjunta una imatge de cada tipus on es vegin les diferències.
+
+SSD - Solid State Drive. No té parts mòbils la velocitat d'accés a la informació és més alta. Es pot connectar també per un port PCIExpress a més de per SATA.
+HDD - Hard Disc Drive. Té parts mòbils. Velocitat menor d'accés a la informació.
+
 2. Busca dues ofertes de venda d'ordinadors diferents per cada tipus de disc.
 3. Quines diferències hi ha entre les taules de partició MBR i GPT?
-4. Als equips actuals quina es fa servir? Busca una imatge d'un ordinador modern on es vegi la BIOS i una altra on es vegi UEFI i relaciona-ho amb l'apartat anterior.
+MBR - permet 4 particions primàries com a màxim, fins a 23 particions lògiques a Windows, fins a 15 particions totals a Linux. Particions de fins a 2TB.
+GPT - permet fins a 128 particions primàries. Discos de fins a 9,4ZB.
+
+4. Als equips actuals quina es fa servir?
+GPT.
+
+Busca una imatge d'un ordinador modern on es vegi la BIOS i una altra on es vegi UEFI i relaciona-ho amb l'apartat anterior.
+
+UEFI és compatible amb GPT i BIOS amb MBR.
+
 5. Quin és el tamany màxim d'una partició primària a GPT en GB?
+
+18.000.000.000 GB
+
 6. Quin és el tamany màxim d'un disc a GPT en GB?
+
+9.400.000.000.000.000 GB
+
 7. Si utilitzo Windows: Quantes particions màximes entre tots els tipus tindré en un disc dur amb taula MBR. Indica quantitat i tipus.
+
+3 primàries.
+1 estesa.
+23 lògiques.
+
 8. Investiga i explica breument què són els volums en mirall.
+
+Són volums que tenen guardada la **mateixa informació**, per tal de que la informació no es perdi.
+
 9. Investiga i explica breument què són els volums RAID. Identificant tots els casos possibles.
 
+- RAID 0: Distribueix dades entre discos per millorar la velocitat.
+- RAID 1: És exactament igual que els volumns mirall, la mateixa informació està als dos discos.
+- RAID 5: Distribueix dades entre 3 o més discos.
 
 ## Part 2 - Pràctica.
 
