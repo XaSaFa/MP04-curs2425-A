@@ -20,6 +20,7 @@
 - [Activitat 2 - Sistemes de fitxers](activitat2.md)
 - [Activitat 3 - Instal·lació documentada de Windows 2016 Server](activitat3.md)
 - [Activitat 4 - activitat diskpart](activitat4.md)
+- [Activitat 5 - còpies de seguretat](activitat5.md)
 
 ## Recursos:
 
