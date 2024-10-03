@@ -2,6 +2,8 @@
 
 Aquesta activitat es pot fer de forma **individual o en parelles**, en cas de fer-ho en parelles indiqueu els components a la portada del treball que s'entragarà en **pdf**.
 
+El treball ha de tenir una portada on s'indiqui el títol "Còpies de seguretat" i el vostre nom a més d'una pàgina amb un índex on s'indiquin els exercicis.
+
 ## Enunciat
 
 Per a fer l'activitat:
