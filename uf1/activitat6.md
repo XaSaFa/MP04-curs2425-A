@@ -8,7 +8,7 @@
 
 Treball per parelles.
 
-Heu d'entregar **una web** explicant amb text i captures com feu el següent:
+Heu d'entregar **una web accessible online** explicant amb text i captures com feu el següent:
 
 ## 1 - Crear una vista personalitzada.
 
