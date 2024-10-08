@@ -15,7 +15,7 @@
   - [Fer una còpia de seguretat](backups2.md)
   - [Restaurar Còpies de seguretat](backups3.md)
   - [Programar Còpies de seguretat](backups4.md)
-
+- [Visor d'esdeveniments](visor_esdeveniments.md)
 ## Activitats:
 
 - [Activitat 1 - Investigació sobre Windows Server](activitat1.md)
