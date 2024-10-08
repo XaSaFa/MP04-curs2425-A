@@ -28,4 +28,4 @@ Quan un usuari iniciï sessió l'esdeveniment executarà un programa de Windows.
 2. Quin event succeeix quan s'apaga Windows?
 3. Quin event succeeix quan es crea un compte d'usuari?
 4. Quin event succeeix quan un usuari falla un login?
-5. Quin event succeeix quan un usuari quan canvia l'hora del SO?
+5. Quin event succeeix quan un usuari canvia l'hora del SO?
