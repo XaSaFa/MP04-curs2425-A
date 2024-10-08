@@ -23,6 +23,7 @@
 - [Activitat 2 - Sistemes de fitxers](activitat2.md)
 - [Activitat 3 - Instal·lació documentada de Windows 2016 Server](activitat3.md)
 - [Activitat 4 - Activitat diskpart](activitat4.md)
+- [Activitat 4,5 - RAID](activitat45.md)
 - [Activitat 5 - Còpies de seguretat](activitat5.md)
 - [Activitat 6 - Visor d'esdeveniments](activitat6.md)
 
