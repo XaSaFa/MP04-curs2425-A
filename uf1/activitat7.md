@@ -14,6 +14,11 @@ Amb la informació de programar tasques i la del article anterior fes:
 - Fes que t'avisi en algun moment de la classe.
 - Mostra tot el procés i el resultat.
 
+Si no funciona activeu que la tasca s'iniciï encara que no estigui el portàtil connectat a la xarxa elèctrica:
+
+![image](https://github.com/user-attachments/assets/c5860323-b3ef-4ba9-96af-f05ffecc3261)
+
+
 ### Activitat 2.
 
 - Programa el reinici de l'ordinador per a un moment de la classe.
