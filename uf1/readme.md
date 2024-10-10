@@ -16,6 +16,7 @@
   - [Restaurar Còpies de seguretat](backups3.md)
   - [Programar Còpies de seguretat](backups4.md)
 - [Visor d'esdeveniments](visor_esdeveniments.md)
+- [Programador de tasques](tasques_programades.md)
   
 ## Activitats:
 
@@ -26,7 +27,8 @@
 - [Activitat 4,5 - RAID](activitat45.md)
 - [Activitat 5 - Còpies de seguretat](activitat5.md)
 - [Activitat 6 - Visor d'esdeveniments](activitat6.md)
-
+- [Activitat 7 - programar tasques](activitat7.md)
+  
 ## Recursos:
 
 - [Descàrrega de Windows 2016 Server](https://www.microsoft.com/es-es/evalcenter/download-windows-server-2016)
