@@ -17,6 +17,10 @@
   - [Programar Còpies de seguretat](backups4.md)
 - [Visor d'esdeveniments](visor_esdeveniments.md)
 - [Programador de tasques](tasques_programades.md)
+- **Monitoritzar el sistema:**
+  - [Monitor d'esdeveniments](monitor.md)
+  - [Recopilador de dades del sistema](informes.md)
+  - [Administrador de tasques](supervisio.md)
   
 ## Activitats:
 
