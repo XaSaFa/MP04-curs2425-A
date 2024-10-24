@@ -44,6 +44,7 @@
 - [Activitat 5 - Còpies de seguretat](activitat5.md)
 - [Activitat 6 - Visor d'esdeveniments](activitat6.md)
 - [Activitat 7 - programar tasques](activitat7.md)
+- [Activitat 8 - Instal·lar Active Directory i MV de W10 (client)](activitat8.md)
   
 ## Recursos:
 
