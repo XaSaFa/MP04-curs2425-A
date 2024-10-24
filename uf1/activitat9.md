@@ -38,5 +38,5 @@ La pàgina web que fareu tindrà:
   - Equips. 
 - Un apartat format per [Cards Grid](https://mdbootstrap.com/docs/standard/components/cards/) per mostrar els usuaris, grups, uos i equips creats amb una imatge de la captura de Windows server i text explicatiu.
 - Un apartat amb un [footer](https://mdbootstrap.com/docs/standard/navigation/footer/) que ens deixi subscriure'ns a la web i amb Copyrigth 2024 i el vostre nom.
-- Si feu servir animacions teniu un punt extra.
+- Extra: feu servir animacions d'elements de la web.
  
