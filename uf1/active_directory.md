@@ -80,7 +80,7 @@ Una Unitat Organitzativa (UO) és un contenidor que permet crear subconjunts d'o
 
 A Active Directory un esquema és l'estructura de la base de dades, utilitzarem la paraula atribut per referir-nos a cadasqun dels tipus d'informació emmagatzemats.
 
-També podem parlar de clase per referir-nos a determinats tipus d'objectes.
+També podem parlar de classe per referir-nos a determinats tipus d'objectes.
 
 Un objecte en concret rep el nom d'instància.
 
