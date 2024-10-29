@@ -50,3 +50,4 @@
 ## Recursos:
 
 - [Descàrrega de Windows 2016 Server](https://www.microsoft.com/es-es/evalcenter/download-windows-server-2016)
+- [Descàrrega de Windows 10](https://drive.google.com/file/d/1Fmm4aiz2xfN981GhgGw3ecYg7eypQQbA/view?ts=671a0094)
