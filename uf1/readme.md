@@ -45,7 +45,8 @@
 - [Activitat 6 - Visor d'esdeveniments](activitat6.md)
 - [Activitat 7 - programar tasques](activitat7.md)
 - [Activitat 8 - Instal·lar Active Directory i MV de W10 (client)](activitat8.md)
-  
+- [Activitat 9 - Gestió d'usuaris i grups d'Active Directory](activitat9.md)
+-   
 ## Recursos:
 
 - [Descàrrega de Windows 2016 Server](https://www.microsoft.com/es-es/evalcenter/download-windows-server-2016)
