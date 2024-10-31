@@ -29,3 +29,6 @@ Aquesta comanda fa una importació del fitxer de forma que afegeix els usuaris d
 ![image](https://github.com/user-attachments/assets/3b5139c5-97cf-4111-97e9-1ef9590a1bc9)
 
 L'usuari importat estarà deshabilitat per defecte.
+
+![image](https://github.com/user-attachments/assets/28da0e98-a5bb-469f-ac5f-671802a5d03d)
+
