@@ -10,7 +10,7 @@ Versió d'escriptori. És la versió estàndard per a usuaris que volen utilitza
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/dcf479c7-878a-455b-8943-0eaeac01accc)
 
-[Link per descarregar versió desktop.]([https://ubuntu.com/download/desktop/thank-you?version=22.04.3&architecture=amd64](https://releases.ubuntu.com/jammy/))
+[Link per descarregar versió desktop.]((https://releases.ubuntu.com/jammy/))
 
 ### Server: 
 
