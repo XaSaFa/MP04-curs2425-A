@@ -10,4 +10,4 @@
   - [Introducció als SO lliures](intro.md)
   - [Avantatges d'utilitzar SO lliures](avantatges.md)
 - Distribució Ubuntu:
-  - [Versions d'Ubuntu](versions.md)
+  - [Introducció a Ubuntu](ubuntu.md)
