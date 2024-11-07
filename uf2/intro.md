@@ -18,7 +18,7 @@ Minix va ser una distribució de Linux que va influenciar a un jove estudiant d'
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/30f9dd94-9c40-4f29-b3c8-7490be021f81)
 Linus Torvalds
 
-El nucli de Linux va ser desenvolupat per Linux Torvalds, però la interacció entre el nucli i l'usuari i moltes aplicacions com la interfície gràfica es van agafar del projecte de Richard Stallman GNU (GNU is Not Unix). 
+El nucli de Linux va ser desenvolupat per Linus Torvalds, però la interacció entre el nucli i l'usuari i moltes aplicacions com la interfície gràfica es van agafar del projecte de Richard Stallman GNU (GNU is Not Unix). 
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/887371c4-32ed-4f92-b16b-9712ac9ab194)
 
@@ -64,10 +64,12 @@ Com la resta de distribucions de Linux Ubuntu és gratuïta, però inclou al seu
 
 Ubuntu s'actualitza dues vegades a l'any, a l'abril i a l'octubre, el número de versió coincideix amb el mes de l'actualització. Així la versió 13.04 és d'abril de 2013 i la versió 13.10 és d'octubre de 2013.
 
-A més cada dos anys apareix una versió anomenada LTS (Lont Term Support), aquestes versions reben suport durant 5 anys, mentre que les versions normals reben suport de 9 mesos.
+A més cada dos anys apareix una versió anomenada LTS (Long Term Support), aquestes versions reben suport durant 5 anys, mentre que les versions normals reben suport de 9 mesos.
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/e1a97e3a-8d11-4049-84d9-c0a0f957a330)
 Versions d'Ubuntu
+
+![image](https://github.com/user-attachments/assets/86dd68cc-b2ff-46b6-8168-95f565fcee64)
 
 ## Linux a altres dispositius:
 
