@@ -13,7 +13,16 @@
   - [Introducció a Ubuntu](ubuntu.md)
   - [Instal·lació Ubuntu Pas a Pas](install.md)
   - [Instal·lació Guest Additions](guest.md)
- 
+  - [Gestionar actualitzacions](actualitzacions.md)
+  - [Canviar el nom de l'equip](canviar_nom.md)
+- Instal·lar Software:
+  - [Instal·lar i desinstal·lar software a Ubuntu](instalar_software.md)
+- Comandes per gestionar el disc dur:
+  - [Mostrar espai al disc - df](df.md)
+  - [Crear particions - fdisk i gdisk](fdisk.md)
+  - [Formatejar i muntar particions](formatejar.md)
+
 ## Activitats
 
 - [Activitat 0 - Instal·lació Ubuntu](activitat0.md)
+- [Activitat 1 - Gestió de disc a Linux](activitat1.md)
