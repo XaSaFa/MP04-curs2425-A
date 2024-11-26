@@ -37,10 +37,10 @@ Per a fer les activitats següents mostra a cada sortida el prompt on es veu que
 15. Formateja les particions esteses com NTFS.
 
 16. Munta les particions a les carpetes següents:
-  - /dev/sda1 a /disc1-X (on X és el teu cognom)
-  - /dev/sda2 a /disc2-X (on X és el teu cognom)
-  - /dev/sda5 a /disc3-X (on X és el teu cognom)
-  - /dev/sda6 a /disc4-X (on X és el teu cognom)
+  - /dev/sdb1 a /disc1-X (on X és el teu cognom)
+  - /dev/sdb2 a /disc2-X (on X és el teu cognom)
+  - /dev/sdb5 a /disc3-X (on X és el teu cognom)
+  - /dev/sdb6 a /disc4-X (on X és el teu cognom)
 
 17. Prova que pots accedir als discos (accedeix i utilitza la comanda pwd).
 
