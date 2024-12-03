@@ -2,7 +2,10 @@
 
 Per a fer les activitats següents mostra a cada sortida el prompt on es veu que la màquina es diu **MP-04-X** (on X és el teu cognom).
 
+
 1. Canvia el nom de l'equip tant amb hostnamectl com a /etc/hosts.
+
+![image](https://github.com/user-attachments/assets/06e9bcbd-e750-4592-841c-146208c927f4)
 
 2. Mira si hi ha una versió LTS nova de Linux
 
