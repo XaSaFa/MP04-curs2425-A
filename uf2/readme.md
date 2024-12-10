@@ -26,7 +26,10 @@
   - [Usuari root a Ubuntu](root.md)
   - [Gestionar usuaris](usuaris_linux.md)
   - [Gestionar grups](grups.md)
-  - 
+- **Monitoritzar el sistema**:
+  - [Mode text](monitor.md)
+  - [Mode gràfic](monitor_grafic.md)
+    
 ## Activitats
 
 - [Activitat 0 - Instal·lació Ubuntu](activitat0.md)
