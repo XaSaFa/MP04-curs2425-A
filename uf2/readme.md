@@ -35,3 +35,4 @@
 - [Activitat 0 - Instal·lació Ubuntu](activitat0.md)
 - [Activitat 1 - Gestió de disc a Linux](activitat1.md)
 - [Activitat 2 - Usuaris i grups](activitat2.md)
+- [Activitat 3 - Monitoratge i gestió d'esdeveniments](activitat3.md)
