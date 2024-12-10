@@ -25,6 +25,10 @@ Mostra informació de la càrrega de treball de la CPU.
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/3e4dd455-d93a-4a3e-b589-a09b86d49dbd)
 
+![image](https://github.com/user-attachments/assets/869d6212-ccc7-495d-9fb8-f0a960d4a672)
+
+[man page](https://man7.org/linux/man-pages/man1/mpstat.1.html)
+
 ## top
 
 La comanda top és una comanda que normalment va integrada a les distribucions Linux, ens mostra el grau d'ocupació de la CPU, la memòria RAM, la memòria d'intercanvi (SWAP) i els processos que s'estan executant.
