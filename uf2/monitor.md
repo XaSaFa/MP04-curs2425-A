@@ -69,6 +69,10 @@ us mostra el temps emprat amb processos dels usuaris, sy mostra temps emprat amb
 
 id (iddle) indica el temps que el processador està parat, wa (waiting) indica el temps que la CPU està parada esperant I/O entrada/sortida per completar un procés.
 
+hi i si indiquen el temps que el processador està gestionant operacions d'interrupció de hardware (hi) o de software (si).
+
+St (steal) indica el temps que la CPU està esperant a executar un procés però no pot per què una màquina virtual està utilitzant-lo.
+
 #### Load average
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/e6b42bcc-70f4-411b-b93a-7d59d280e6f9)
@@ -79,17 +83,9 @@ Indica el temps que has d'esperar per a que un programa s'executi, quant més al
 
 El número, per exemple 0.5, indica que el processador està al 50% de funcionament. Si estigués al 1.0 indica que va al 100% de càrrega, al 1.2 va al 120% i està deixant de fer processos...
 
-
-
 ### Ordenar processos
 
 Si presionem h durant l'execució de top ens surten les opcions que té el programa, per exemple ens deixa ordenar els processos per la càrrega de CPU o la memòria que ocupen.
-
-Hi i si indiquen el temps que el processador està gestionant operacions d'interrupció de hardware (hi) o de software (si).
-
-St (steal) indica el temps que la CPU està esperant a executar un procés però no pot per què una màquina virtual està utilitzant-lo.
-
-
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/3177575e-9a20-478f-ab26-67d2f16e17a0)
 
