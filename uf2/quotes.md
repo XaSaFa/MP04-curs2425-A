@@ -38,7 +38,7 @@ a:
 
 on usrquota indica que utilitzarem quota d'usuari i grpquota quota de grup.
 
-**Després reiniciem el sistema o remuntem el sistema de fitxers** amb ```sudo mount -o remount /home```.
+**Després reiniciem el sistema**.
 
 Executarem la comanda següent per crear els fitxers a /home anomenats **aquota.group  aquota.user**.
 
