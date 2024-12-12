@@ -38,7 +38,7 @@ a:
 
 on usrquota indica que utilitzarem quota d'usuari i grpquota quota de grup.
 
-**Després reiniciem el sistema**.
+**Després reiniciem el sistema o remuntem el sistema de fitxers** amb ```sudo mount -o remount /home```.
 
 Executarem la comanda següent per crear els fitxers a /home anomenats **aquota.group  aquota.user**.
 
@@ -90,6 +90,12 @@ La comanda següent ens mostrarà l'estat de les quotes a /home:
 
 ```
 sudo repquota /home
+```
+
+Per veure l'estat de les quotes de l'usuari lolo escrivim la comanda següent:
+
+```
+quota -s -u lolo
 ```
 
 ## Desactivar quotes
