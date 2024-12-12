@@ -25,7 +25,7 @@ Es pot ampliar també així.
 
 ## Còpies de seguretat per terminal
 
-Hi ha moltes formes de fer còpis de seguretat per terminal, per exemple podem utilitzar la comanda **dump**.
+Hi ha moltes formes de fer còpies de seguretat per terminal, per exemple podem utilitzar la comanda **dump**.
 
 Per veure les opcions de dump executem:
 
