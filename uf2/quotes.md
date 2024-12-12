@@ -16,7 +16,7 @@ A més les limitacions poden ser rígides o flexibles:
 
 ## Instal·lar el servei de quotes
 
-Instal·larem el servei de quotes orientat a limitra l'ús de disc al directori **home** dels usuaris.
+Instal·larem el servei de quotes orientat a limitar l'ús de disc al directori **home** dels usuaris.
 
 Comencem per instal·lar els paquets per a gestionar quotes a Linux:
 
