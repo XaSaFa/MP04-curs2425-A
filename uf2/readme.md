@@ -60,3 +60,14 @@
 - [Activitat 3 - Monitoratge i gestió d'esdeveniments](activitat3.md)
 - [Activitat 4 - Creació de grups i d'usuaris a LDAP](activitat_ldap1.md)
 - Feu l'activitat de LDAP de creació de UO, grups i usuaris de Moodle.
+
+### Resolució a classe de l'activitat de Moodle:
+
+#### Activitat 1
+
+![image](https://github.com/user-attachments/assets/a6d90696-0bf7-427e-8ef9-a4d9a8e345af)
+![image](https://github.com/user-attachments/assets/4481b966-1133-4939-80cf-af9ecb23dbac)
+![image](https://github.com/user-attachments/assets/8dbd99fd-3b79-4941-86e1-6d1ec6f3b041)
+
+
+
