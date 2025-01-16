@@ -59,3 +59,4 @@
 - [Activitat 2 - Usuaris i grups](activitat2.md)
 - [Activitat 3 - Monitoratge i gestió d'esdeveniments](activitat3.md)
 - [Activitat 4 - Creació de grups i d'usuaris a LDAP](activitat_ldap1.md)
+- Feu l'activitat de LDAP de creació de UO, grups i usuaris de Moodle.
