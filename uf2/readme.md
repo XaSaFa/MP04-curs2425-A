@@ -58,8 +58,8 @@
 - [Activitat 1 - Gestió de disc a Linux](activitat1.md)
 - [Activitat 2 - Usuaris i grups](activitat2.md)
 - [Activitat 3 - Monitoratge i gestió d'esdeveniments](activitat3.md)
-- [Activitat 4 - Creació de grups i d'usuaris a LDAP](activitat_ldap1.md)
-- Feu l'activitat de LDAP de creació de UO, grups i usuaris de Moodle.
+- Activitat 4 - Feu l'activitat de LDAP de creació de UO, grups i usuaris de Moodle.
+- [Activitat 5 - activitat repàs LDAP](activitat_ldap2.md)
 
 ### Resolució a classe de l'activitat de Moodle:
 
