@@ -54,5 +54,5 @@ Per compartir recursos a Linux necessitem dues MV:
   
 ## Activitats
 
-
+1. [Permisos Linux](activitat_permisos_linux.md)
   
