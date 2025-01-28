@@ -1,18 +1,55 @@
 # Activitat 1 - Permisos a Linux
 
 1. Ves al teu directori personal i crea una carpeta anomenada "directori_permisos".
+
+mkdir directori_permisos
+
 2. Canvia els permisos del directori perquè només el propietari tingui tots els permisos.
+sudo chmod 700 directori_permisos/
+
 3. Crea un arxiu anomenat "arxiu1.txt" dins del directori anterior i verifica quins permisos té.
+
+cd directori_permisos/
+touch arxiu1.txt
+ls -l
+
 4. Crea un grup anomenat "proves".
+
+sudo addgroup proves
+ 
 5. Dona-li permisos de lectura i escriptura sobre "arxiu1.txt" al grup.
+
+sudo chown xavi:proves arxiu1.txt
+
 6. Crea un subdirectori anomenat "subdirectori_permisos".  
+
+mkdir subdirectori_permisos
+
 7. Deixa el subdirectori anterior amb permisos només per al propietari (rwx).  
+
+sudo chmod 700 subdirectori_permisos/
+
 8. Concedeix permisos d'execució al grup "proves" sobre "subdirectori_permisos".
-9. Crea un usuari anomenat "convidat".
-10. Canvia els permisos del directori "directori_permisos" perquè l'usuari "convidat" pugui accedir.
-11. Canvia els permisos de l'arxiu "arxiu1.txt" perquè tots els usuaris tinguin només permís de lectura.
-12.  Comprova que l'usuari "convidat" no pot accedir al subdirectori "subdirectori_permisos".
-13.  Afegeix convidat al grup "proves" i comprova que sí té accés a "subdirectori_permisos". (POTSER NECESSITES REINICIAR EL SISTEMA).
+
+sudo chown xavi:proves subdirectori_permisos/
+sudo chmod 710 subdirectori_permisos/
+
+10. Crea un usuari anomenat "convidat".
+
+sudo adduser convidat
+
+11. Canvia els permisos del directori "directori_permisos" perquè l'usuari "convidat" pugui accedir.
+
+sudo chown convidat:xavi directori_permisos/
+
+12. Canvia els permisos de l'arxiu "arxiu1.txt" perquè tots els usuaris tinguin només permís de lectura.
+
+chmod 444 arxiu1.txt
+
+13.  Comprova que l'usuari "convidat" no pot accedir al subdirectori "subdirectori_permisos".
+
+
+14.  Afegeix convidat al grup "proves" i comprova que sí té accés a "subdirectori_permisos". (POTSER NECESSITES REINICIAR EL SISTEMA).
 
 # Activitat 2 - umask
 
