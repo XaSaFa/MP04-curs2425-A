@@ -58,4 +58,5 @@ Per compartir recursos a Linux necessitem dues MV:
 2. [Net Use](https://github.com/XaSaFa/MP04/blob/main/uf3/activitat2.md)
 3. [Carpetes personals](activitat_carpetes_personals.md)
 4. [Compartir impressora](activitat_impressora.md)
+5. [Polítiques de grup](activitat_directives_grup.md)
   
