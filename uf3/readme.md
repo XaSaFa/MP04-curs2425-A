@@ -45,9 +45,9 @@ Per compartir recursos a Linux necessitem dues MV:
   - [Crear el recurs compartit](https://github.com/XaSaFa/MP04/blob/main/uf3/nfs3.md)
   - [Accedir a la carpeta compartida des d'un client](https://github.com/XaSaFa/MP04/blob/main/uf3/nfs4.md)
   - [Muntar automàticament les carpetes compartides](https://github.com/XaSaFa/MP04/blob/main/uf3/nfs5.md)
-  - [Muntar la carpeta home del servidor per cada usuari client](https://github.com/XaSaFa/MP04/blob/main/uf3/nfs6.md)
+  - [Muntar la carpeta home del servidor per cada usuari client](https://github.com/XaSaFa/MP04/blob/main/uf3/practica_nfs.md)
   - [Compartir una impressora entre equips en xarxa Linux](https://github.com/XaSaFa/MP04/blob/main/uf3/compartir_impresora_linux.md)
-  - Còpies de seguretat programades amb NFS.
+  - [Còpies de seguretat programades amb NFS.](https://github.com/XaSaFa/MP04/blob/main/uf3/activitat_backup_nfs.md)
   
 
 ### Permisos a Linux
