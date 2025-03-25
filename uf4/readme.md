@@ -32,7 +32,6 @@
 
 - [Tutorial d'instal·lació](https://github.com/XaSaFa/MP04/blob/main/uf4/webmin.md)    
   - [Activitat PUNTUABLE per parelles ús webmin](https://github.com/XaSaFa/MP04/blob/main/uf4/activitat_webmin.md)
-  - Data límit 21/04/2024
 
 ## Impressores
 
