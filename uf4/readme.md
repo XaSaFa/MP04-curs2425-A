@@ -44,7 +44,8 @@
 
 ## Zentyal
 
--[Què és Zentyal](https://github.com/XaSaFa/MP04/blob/main/uf4/zentyal0.md)
+- [Què és Zentyal](https://github.com/XaSaFa/MP04/blob/main/uf4/zentyal0.md)
+- [Activitat 1 - Zentyal](https://github.com/XaSaFa/MP04/blob/main/uf4/activitat_zentyal.md)
 
 ## Recursos
 
