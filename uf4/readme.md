@@ -42,6 +42,10 @@
 - [Preparar el servidor](https://github.com/XaSaFa/MP04/blob/main/uf4/linux_controlador_domini.md)
 - [Connectar un client Windows](https://github.com/XaSaFa/MP04/blob/main/uf4/linux_controlador_de_domini2.md)
 
+## Zentyal
+
+-[Què és Zentyal](https://github.com/XaSaFa/MP04/blob/main/uf4/zentyal0.md)
+
 ## Recursos
 
 - [Web oficial de Samba](https://www.samba.org/)
