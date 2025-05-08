@@ -41,12 +41,14 @@
 
 - [Preparar el servidor](https://github.com/XaSaFa/MP04/blob/main/uf4/linux_controlador_domini.md)
 - [Connectar un client Windows](https://github.com/XaSaFa/MP04/blob/main/uf4/linux_controlador_de_domini2.md)
+- 
 
 ## Zentyal
 
 - [Què és Zentyal](https://github.com/XaSaFa/MP04/blob/main/uf4/zentyal0.md)
 - [Activitat 1 - Zentyal](https://github.com/XaSaFa/MP04/blob/main/uf4/activitat_zentyal.md)
 - [Activitat 2 - Configurar aspectes de Zentyal](https://github.com/XaSaFa/MP04/blob/main/uf4/activitat_zentyal1.md)
+- - [Activitat 3 - Gestió d'usuaris, grups i recursos compartits](https://github.com/XaSaFa/MP04/blob/main/uf4/activitat_zentyal2.md)
 
 ## Recursos
 
